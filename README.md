@@ -11,6 +11,7 @@ im lemon, and here's some stuff about me!! :3
 - AI/ML
 - Ascii art
 - CV
+- Linux and the creation of Linux Didtro's and Operating Systems with Linux.
 
 # Languages
 
