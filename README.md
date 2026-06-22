@@ -15,6 +15,7 @@ im lemon, and here's some stuff about me!! :3
 
 # Languages
 
-- Python < Main language.
-- HTML, CSS < Hobby projects.
-- Ruby < Learning...
+- Python > Main language.
+- HTML, CSS > Hobby projects.
+- C > Only familiar with base concepts and SDL2
+- Ruby > Learning...
