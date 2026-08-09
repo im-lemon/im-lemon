@@ -1,5 +1,4 @@
-im lemon, and here's some stuff about me!! :3
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=doing+random+stuff.;i+love+esolangs)](https://git.io/typing-svg)
 
 # What i like to make:
 - CLI Tools (I suck at GUI´s)
