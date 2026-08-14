@@ -5,7 +5,7 @@
 - And python libraries like: [github.com/im-lemon/discord-colour](discord-colour) and [github.com/im-lemon/colorim](colorim)
 
 
-# INTERESTS:
+# Interests:
 
 - AI/ML
 - Ascii art
