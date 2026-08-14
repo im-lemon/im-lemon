@@ -10,7 +10,7 @@
 - AI/ML
 - Ascii art
 - CV
-- Linux and the creation of Distro's and Operating Systems with Linux.
+- esoteric programming languages, transpilers and the creation of interpreters.
 
 # Languages
 
